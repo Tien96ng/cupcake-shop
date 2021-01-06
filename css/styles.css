@@ -1,0 +1,27 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h2.best {
+  color: darkred;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+img {
+  height: 300px;
+}
+
+.cupcake-container {
+  border: dimgray 2px dotted;
+  margin: 30px 0px 30px 0px;
+}
+
+img, h2 {
+  margin: 10px 30px 10px 30px;
+}
+
+.flashy, p {
+  text-align: center;
+}
